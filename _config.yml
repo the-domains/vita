@@ -1,14 +1,26 @@
-layout_spectrum: 0.2734256
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+typography_spectrum: 0.05555556
 color:
-  saturation: 0.6332708
-  lightness: 0.1272583
+  saturation: 1
   brandStrength: 0.8422939
+  lightness: 0.5215054
   brandColors:
     - '#4B1F0E'
     - '#FCFAFB'
     - '#6EABB4'
     - '#CF909A'
     - '#A36538'
-  rhythmicContrast: 0.6328415
-typography_spectrum: 0.05555556
+  rhythmicContrast: 0.8691756
+layout_spectrum: 0.2734256
 name: Vita
