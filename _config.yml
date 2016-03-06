@@ -1,0 +1,14 @@
+layout_spectrum: 0.2734256
+color:
+  saturation: 0.6332708
+  lightness: 0.1272583
+  brandStrength: 0.8422939
+  brandColors:
+    - '#4B1F0E'
+    - '#FCFAFB'
+    - '#6EABB4'
+    - '#CF909A'
+    - '#A36538'
+  rhythmicContrast: 0.6328415
+typography_spectrum: 0.05555556
+name: Vita
