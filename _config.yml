@@ -4,23 +4,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
+typography_spectrum: 0.05555556
 color:
   saturation: 1
   brandStrength: 0.8422939
-  lightness: 0.5215054
+  lightness: 0.8243728
   brandColors:
     - '#4B1F0E'
     - '#FCFAFB'
     - '#6EABB4'
     - '#CF909A'
     - '#A36538'
-  rhythmicContrast: 0.8691756
-typography_spectrum: 0.05555556
+  rhythmicContrast: 1
 layout_spectrum: 1
 name: Vita
